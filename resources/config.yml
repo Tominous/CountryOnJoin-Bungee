@@ -18,4 +18,4 @@ messages-culture: "en-US"
 countrynames-culture: "en-US"
 
 # Spam the console with useful information for error reporting. Should be disabled on production environment.
-debug: false
+debug: true
